@@ -1,3 +1,6 @@
+Modified code from https://github.com/RamanSharma100/React-Redux-Contact-Book
+Youtube: https://www.youtube.com/watch?v=DZ7AZuii9ZU
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
